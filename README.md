@@ -1,4 +1,31 @@
-👋 Hi, I’m @nardazaria currently pursuing my Bachelors in Computer Science at Bits Pilani, Dubai. I’m exploring data engineering, AI, and analytics, and I enjoy building projects that makes my life easier (and occasionally into something a little more creative).
+# Hi, I'm Narda 
+
+CS graduate from **BITS Pilani, Dubai**
+Currently exploring **Cybersecurity, Penetration Testing & IT**
+
+### About Me
+
+I'm currently developing my skills in cybersecurity, with a particular interest in **penetration testing, network security, and security tools**.
+
+My background also includes work with **data, AI/ML, analytics, and web development**, and I **LOVE** hands-on projects :)
+
+### What I'm Working On
+
+* Building practical cybersecurity and penetration-testing skills
+* Learning more about networking, Linux, and security tools
+* Exploring AI/ML applications in cybersecurity
+* Building and improving projects to strengthen my technical portfolio
+
+### Technologies & Tools
+
+**Cybersecurity:** Nmap · Metasploit · Wireshark · Burp Suite · John the Ripper · Hydra
+**Languages:** Python · HTML · SQL
+**Data & AI:** Power BI · Pandas · PyTorch · Hugging Face
+**Platforms:** Linux · GitHub · VirtualBox
+
+
+**Feel free to explore my repositories and connect with me!**
+
    
 
 <!---
