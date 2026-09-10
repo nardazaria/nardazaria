@@ -2,6 +2,8 @@
   <img src="banner1.png" width="100%" />
 </p>
 
+<p align="center">⋆｡°✩｡°⋆</p>
+
 <h1 align="center">Heya! I'm Narda </h1>
 
 <p align="center">
@@ -25,7 +27,10 @@ My background also includes **AI/ML, data analytics, and web development**, and 
 ## What am I upto?
 
 </p>
-`Penetration testing` `Networking and Linux` `Hands-on security labs and practicals`
+
+- Pen Testing
+- Networking, Linux, Security tools
+- Hands-on Security Labs and Practicals
 
 <p align="center">
 
@@ -36,6 +41,7 @@ My background also includes **AI/ML, data analytics, and web development**, and 
 **Tools & Technologies**
 
 `Nmap` `Metasploit` `Hydra` `Hashcat` `John the Ripper` `SEToolkit` `Ettercap` `hping3` `Docker`
+
 
 **Security Areas**
 
@@ -57,6 +63,7 @@ My background also includes **AI/ML, data analytics, and web development**, and 
 <td> Docker Security</td>
 </tr>
 </table>
+
 
 **Languages**
 
