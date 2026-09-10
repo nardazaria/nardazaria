@@ -8,7 +8,6 @@
   <b>Computer Science Graduate · Cybersecurity · AI/ML · Data</b>
 </p>
 
-<p align="center">⋆｡°✩｡°⋆</p>
 
 <p align="center">
   
@@ -20,19 +19,13 @@ My background also includes **AI/ML, data analytics, and web development**, and 
 
 </p>
 
-<p align="center">⋆｡°✩｡°⋆</p>
 
 <p align="center">
 
 ## What am I upto?
 
 </p>
-
-- Penetration testing
-- Networking and Linux
-- Hands-on security labs and practicals
-
-<p align="center">⋆｡°✩｡°⋆</p>
+`Penetration testing` `Networking and Linux` `Hands-on security labs and practicals`
 
 <p align="center">
 
@@ -46,13 +39,24 @@ My background also includes **AI/ML, data analytics, and web development**, and 
 
 **Security Areas**
 
-- Web & Application Security
-- Network & Packet Analysis
-- Password Cracking & Hash Analysis
-- Phishing & Social Engineering
-- Malware & Ransomware Analysis
-- Wireless Security & WPA2
-- OWASP Security Concepts
+<table>
+<tr>
+<td> Web & Application Security</td>
+<td> Network Security</td>
+</tr>
+<tr>
+<td> Password & Hash Security</td>
+<td> Phishing & Social Engineering</td>
+</tr>
+<tr>
+<td> Wireless Security</td>
+<td> Malware Analysis</td>
+</tr>
+<tr>
+<td> Thick-Client Pentesting</td>
+<td> Docker Security</td>
+</tr>
+</table>
 
 **Languages**
 
@@ -65,8 +69,6 @@ My background also includes **AI/ML, data analytics, and web development**, and 
 **Tools & Platforms**
 
 `Linux` `Git` `GitHub` `VirtualBox`
-
-<p align="center">⋆｡°✩｡°⋆</p>
 
 <p align="center">
 
@@ -82,9 +84,9 @@ A multimodal deepfake detection system designed to analyze:
 
 **[View TruthLens](https://github.com/nardazaria/truthlens-demo)**
 
-<p align="center">⋆｡°✩｡°⋆</p>
-
 <p align="center">
+
+<p align="center">⋆｡°✩｡°⋆</p>
 
 ## Let's Connect!
 
@@ -94,6 +96,7 @@ A multimodal deepfake detection system designed to analyze:
   <a href="www.linkedin.com/in/nardazaria">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  
   <a href="mailto:nardazaria@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
