@@ -79,20 +79,6 @@ My background also includes **AI/ML, data analytics, and web development**, and 
 
 <p align="center">
 
-## Featured Projects
-
-</p>
-
-### TruthLens: Multimodal Deepfake Detection
-
-A multimodal deepfake detection system designed to analyze:
-
-**Images · Audio · Video · Text**
-
-**[View TruthLens](https://github.com/nardazaria/truthlens-demo)**
-
-<p align="center">
-
 <p align="center">⋆｡°✩｡°⋆</p>
 
 ## Let's Connect!
